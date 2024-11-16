@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snecW
 - 👀 I’m interested in learning tech and coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: @snec_
 - 😄 Pronouns: he/him
